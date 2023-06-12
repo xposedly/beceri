@@ -20,7 +20,8 @@ Sunucuya Yeni Başlayanlar İçin Kasılırken 5 Level Olduklarında Karşılar�
 
 ## Pack Klasörü
 
-  Aynı Şekilde Pack Klasörünün İçerisinde Yer Alan .py Dosyalarını Pack Dosyalarınıza Anlatıldığı Gibi Ekleyin
+  Aynı Şekilde Pack Klasörünün İçerisinde Yer Alan .py Dosyalarını "Root" Pack Dosyalarınıza Anlatıldığı Gibi Ekleyin
+  
 
   
 ## Yazarlar ve Teşekkür
