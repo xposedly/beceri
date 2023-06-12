@@ -8,7 +8,7 @@ Bu projenin ne yaptığı ve kimin için olduğu hakkında kısa bir açıklama
 
 
 
-![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/xposedly/beceri/bff7fd0404fa9cf3e1108d294f9916fcfca53e24/m2-beceri.png?token=GHSAT0AAAAAACDYU7YSJ3NA5TX4NONW6C3OZEHCHZA)
+![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/xposedly/beceri/55e57bdd56bfcd300bb500ad3ce2c5d77806f081/m2-beceri.png?token=GHSAT0AAAAAACDYU7YTTL6WOEXCMX6LEZHEZEHDDZQ)
 
 
   
