@@ -8,7 +8,6 @@ Sunucuya Yeni Başlayanlar İçin Kasılırken 5 Level Olduklarında Karşılar�
 
 ![Ekran Görüntüsü](m2-beceri.png "Beceri Seçme Ekranı")
 
-![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/xposedly/beceri/55e57bdd56bfcd300bb500ad3ce2c5d77806f081/m2-beceri.png)
 
 
   
