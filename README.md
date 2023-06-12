@@ -1,7 +1,7 @@
 
 # 5 Level'de Uzaktan Beceri Seçme Ekranı
 
-Bu projenin ne yaptığı ve kimin için olduğu hakkında kısa bir açıklama
+Sunucuya Yeni Başlayanlar İçin Kasılırken 5 Level Olduklarında Karşılarına Beceri Seçme Ekranı Çıkar
 
 
 ## Ekran Görüntüleri
